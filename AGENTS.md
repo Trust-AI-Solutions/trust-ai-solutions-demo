@@ -2,7 +2,9 @@
 
 Versión bilingüe (inglés por defecto, español con un botón) de `demo-webinar-bhd`, con el contexto del informe de la fase beta en la portada. El repo original no se toca desde aquí.
 
-Demo en vivo para el webinar de BHD: las soluciones de IA de la fase beta para **Minis by Mónica**, **Grupo Rodelo** y **Delidom**, con datos ficticios, conectadas a Claude. Claude Code lo lee a través de `CLAUDE.md`.
+Demo en vivo para el webinar de BHD: las soluciones de IA de la fase beta para **Minis by Mónica**, **Grupo Rodelo** y **Delidom**, con datos ficticios, conectadas a Claude. OpenAI Codex usa este archivo (`AGENTS.md`) como guía del proyecto; Claude Code lo lee a través de `CLAUDE.md`.
+
+Codex se usó para adaptar el portafolio a Sites, agregar navegación y atribución personal, y verificar la publicación. Este crédito corresponde a la preparación del portafolio, no a las implementaciones originales de los clientes. Los agentes de la demo siguen conectados a Claude mediante la API de Anthropic.
 
 ## Reglas
 
