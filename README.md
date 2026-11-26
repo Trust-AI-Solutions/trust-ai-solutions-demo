@@ -20,6 +20,25 @@ approval to scale to 50 businesses), the other two beta businesses (Hulkcell and
 SD Karting), the owners' testimonials and how the bank–Trust–business partnership works. It opens
 with Mónica Quiñones' video testimonial (Minis by Mónica).
 
+## Development tools and attribution
+
+**Jorge Marquez Gaspar**, Senior Manager and leader of Trust AI Solutions, leads the work
+from business diagnostics and proposals through design, building, and delivery of AI tools.
+
+**OpenAI Codex** helped adapt this repository for Sites, add portfolio navigation and
+personal attribution, and run build, functional, browser, and bilingual checks for the
+portfolio publication. This credit covers the portfolio preparation; it does not attribute
+the original client implementations to Codex.
+
+Codex uses [AGENTS.md](AGENTS.md) as the project guidance. Claude Code can use the same
+guidance through [CLAUDE.md](CLAUDE.md). Both should preserve the sample-data boundaries,
+bilingual interface, human review of AI outputs, and required checks.
+
+The AI agents inside the demos currently use **Claude through the Anthropic API**.
+Codex is a development tool for this project, separate from the model serving demo requests.
+
+[View the portfolio](https://trust-ai-solutions-portfolio.trust-oea-6692.chatgpt.site/).
+
 ## How the two languages work
 
 - The code, the data and the agents' instructions are written in Spanish (the pilot's language).
